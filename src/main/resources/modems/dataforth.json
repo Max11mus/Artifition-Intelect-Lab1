@@ -1,0 +1,10 @@
+{
+  "serialNumber": "d160ff46-21da-410a-944b-e8828f91f0e6",
+  "manufacturer": "Dataforth",
+  "modelName": "Dataforth LDM85",
+  "type": "Fiber Optic",
+  "priceInUsd": 700.69,
+  "powerConsumptionInWatts": 1.0,
+  "connectionInterface": "RS-232",
+  "transmissionMedium": "Fiber Optic Cable"
+}

@@ -1,0 +1,10 @@
+{
+  "serialNumber": "38594f8c-4130-4132-bcbc-7524bca11b05",
+  "manufacturer": "Zyxel",
+  "modelName": "Zyxel Omni 56K",
+  "type": "Dial-UP",
+  "priceInUsd": 10.10,
+  "powerConsumptionInWatts": 9.0,
+  "connectionInterface": "USB",
+  "transmissionMedium": "Dial-UP telephone line"
+}

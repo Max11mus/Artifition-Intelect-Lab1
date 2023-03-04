@@ -1,0 +1,10 @@
+{
+  "serialNumber": "09208809-e331-4d02-a3c1-d1d6c5d81091",
+  "manufacturer": "U.S. Robotics",
+  "modelName": "U.S.Robotics Courier V.Everything 56K",
+  "type": "Dial-UP",
+  "priceInUsd": 30.50,
+  "powerConsumptionInWatts": 15.0,
+  "connectionInterface": "RS-232",
+  "transmissionMedium": "Dial-UP telephone line"
+}

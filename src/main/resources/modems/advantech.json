@@ -1,0 +1,10 @@
+{
+  "serialNumber": "27b09993-8c91-46ee-977d-a641cb87bb5d",
+  "manufacturer": "Advantech",
+  "modelName": "Advantech BB-FOSTC",
+  "type": "Fiber Optic",
+  "priceInUsd": 980.69,
+  "powerConsumptionInWatts": 1.0,
+  "connectionInterface": "RS-485",
+  "transmissionMedium": "Fiber Optic Cable"
+}

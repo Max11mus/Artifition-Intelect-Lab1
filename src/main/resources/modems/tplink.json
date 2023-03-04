@@ -1,0 +1,10 @@
+{
+  "serialNumber": "a6d297bd-6a7e-4ea4-8331-e6015d75460c",
+  "manufacturer": "TP-Link",
+  "modelName": "TP-Link TC-7610 DOCSIS 3.0",
+  "type": "Cable",
+  "priceInUsd": 200.73,
+  "powerConsumptionInWatts": 12.0,
+  "connectionInterface": "10/100BASE-TX Ethernet",
+  "transmissionMedium": "Coaxial cable"
+}

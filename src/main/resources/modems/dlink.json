@@ -1,0 +1,10 @@
+{
+  "serialNumber": "b0368cef-ed86-463f-9183-e08be6a9c4ee",
+  "manufacturer": "D-Link",
+  "modelName": "D-Link DSL-2500U",
+  "type": "ADSL",
+  "priceInUsd": 10.10,
+  "powerConsumptionInWatts": 5.0,
+  "connectionInterface": "10/100BASE-TX Ethernet",
+  "transmissionMedium": "Leased telephone line"
+}

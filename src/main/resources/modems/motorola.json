@@ -1,0 +1,10 @@
+{
+  "serialNumber": "c81b9a37-6c5e-4c64-a00d-bf376fdf2ad8",
+  "manufacturer": "Motorola",
+  "modelName": "Motorola MB7621-10",
+  "type": "Cable",
+  "priceInUsd": 250.73,
+  "powerConsumptionInWatts": 15.0,
+  "connectionInterface": "10/100BASE-TX Ethernet",
+  "transmissionMedium": "Coaxial cable"
+}

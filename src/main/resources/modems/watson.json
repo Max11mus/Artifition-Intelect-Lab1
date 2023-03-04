@@ -1,0 +1,10 @@
+{
+  "serialNumber": "a6d297bd-6a7e-4ea4-8331-e6015d75460c",
+  "manufacturer": "Schmid Telecom",
+  "modelName": "Schmid Telecom SZ.847.V350W Watson",
+  "type": "DSL",
+  "priceInUsd": 120.35,
+  "powerConsumptionInWatts": 10.0,
+  "connectionInterface": "10/100BASE-TX Ethernet",
+  "transmissionMedium": "Leased telephone line"
+}

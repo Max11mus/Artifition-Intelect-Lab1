@@ -1,0 +1,10 @@
+{
+  "serialNumber": "d7e1bcb7-dc29-4caa-930c-e3b718c66d98",
+  "manufacturer": "IRZ",
+  "modelName": "IRZ MC52",
+  "type": "GSM",
+  "priceInUsd": 350.10,
+  "powerConsumptionInWatts": 5.0,
+  "connectionInterface": "RS-485",
+  "transmissionMedium": "GSM network"
+}

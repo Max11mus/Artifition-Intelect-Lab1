@@ -1,0 +1,10 @@
+{
+  "serialNumber": "baf8fb32-2b3d-406e-9edd-c3c690ef37b0",
+  "manufacturer": "SIEMENS",
+  "modelName": "SIEMENS MC35IT",
+  "type": "GSM",
+  "priceInUsd": 240.10,
+  "powerConsumptionInWatts": 2.0,
+  "connectionInterface": "RS-232",
+  "transmissionMedium": "GSM network"
+}
